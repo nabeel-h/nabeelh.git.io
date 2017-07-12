@@ -1,13 +1,11 @@
 # nabeelh.git.io
 Data Analysis Portfolio
 
+Data Exploration and Analysis
 
-REGRESSION Analysis
+Regression Problems
 
-CLASSFICIATION
+Classification Problems
 
+Machine Learning Problems
 
-MACHINE LEARNING
-
-
-CLUSTERING
