@@ -5,7 +5,7 @@ This is a repo that will be used to store some personal data analysis projects.
 
 ### reddit NBA community analysis:
 
-[Link to Jupyter notebook](https://github.com/nabeel-h/port.io/blob/master/Notebooks/foo.txt)
+[Link to Jupyter notebook](https://github.com/nabeel-h/port.io/blob/master/Notebooks/nba_reddit/Reddit%20NBA%20Subreddit%20Analysis.ipynb)
 
 This analysis takes a look at NBA community on the popular social media website [reddit.com](https://www.reddit.com).
 There are 32 teams in the NBA and as a result 33 subreddits (micro-communities): one for each [team](https://www.reddit.com/r/lakers) with an additional one for the [NBA](https://www.reddit.com/r/nba) itself.
